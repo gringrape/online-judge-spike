@@ -1,5 +1,8 @@
 
-  const func = function add(a, b, c) { return [a, b, c]; };
+    const func = 
+    function add(a, b, c) {
+      return [a, b, c]; 
+  };
   
-  console.log(func(3,9,5));
+    console.log(func(3,9,5));
   
